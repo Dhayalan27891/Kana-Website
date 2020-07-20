@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "388c6fb2077eef89da553f5fe160c577",
+    "revision": "9e66642237044258876db3339e613378",
     "url": "/Kana-Website/index.html"
   },
   {
-    "revision": "59f9c039f76f61846ae3",
-    "url": "/Kana-Website/static/css/main.d89b957d.chunk.css"
+    "revision": "e678e6ae91f4c76b91c1",
+    "url": "/Kana-Website/static/css/main.9e867b8f.chunk.css"
   },
   {
     "revision": "cf8a54fea3c1f866333c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kana-Website/static/js/2.fe48b83d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59f9c039f76f61846ae3",
-    "url": "/Kana-Website/static/js/main.d41c8b8d.chunk.js"
+    "revision": "e678e6ae91f4c76b91c1",
+    "url": "/Kana-Website/static/js/main.df471878.chunk.js"
   },
   {
     "revision": "ada9f9de61daab525d6d",
